@@ -1,5 +1,5 @@
 <?
-require './model/DbConnect.php';
+require 'DbConnect.php';
 	function submit($phNo,$amount){
 
 	$conn =connect();
